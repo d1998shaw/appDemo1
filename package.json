@@ -2,10 +2,10 @@
   "name": "appdemo1",
   "version": "1.0.0",
   "description": "",
-  "main": "appApi.js",
+  "main": "appApi1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node appApi.js"
+    "start": "node appApi1.js"
   },
   "keywords": ["build","node"],
   "author": "",
